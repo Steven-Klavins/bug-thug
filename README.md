@@ -1,3 +1,3 @@
 # bug-thug
 
-A game using React Native!
+A game using React Native

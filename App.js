@@ -23,6 +23,7 @@ export default function App() {
   } else {
     return <Game />
   }
+
 }
 
 const styles = StyleSheet.create({
